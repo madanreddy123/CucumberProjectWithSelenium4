@@ -1,0 +1,36 @@
+# Folders
+target/
+bin/
+test-output/
+logs/
+Downloads/
+Screenshot/
+
+# Packages
+# It's better to unpack these files and commit the raw source
+# Git has its own built-in compression methods
+*.7z
+*.dmg
+*.gz
+*.iso
+*.rar
+*.tar
+*.zip
+*.gzip
+
+# Logs and databases
+*.log
+.idea
+.metadata
+
+# OS Generated Files
+.classpath
+.project
+.settings
+
+# dependencies
+/node_modules
+
+# testing
+/coverage
+/test-results
